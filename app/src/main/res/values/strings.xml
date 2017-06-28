@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android MVP UnitTesting</string>
+    <string name="login">Login</string>
+    <string name="enter_the_password">Enter The Password</string>
+    <string name="enter_the_username">Enter The UserName</string>
+    <string name="you_ve_successfully_loged_in">You\'ve Successfully Loged in</string>
+    <string name="login_failed">Login failed.</string>
+    <string name="username_error">Enter username</string>
+    <string name="password_error">Enter password</string>
+</resources>
