@@ -39,7 +39,7 @@
     <EditText
         android:layout_centerHorizontal="true"
         android:gravity="center"
-        android:layout_margin="20dp"
+        android:layout_margin="21dp"
         android:id="@+id/userName"
         android:layout_width="300dp"
         android:layout_height="wrap_content"
