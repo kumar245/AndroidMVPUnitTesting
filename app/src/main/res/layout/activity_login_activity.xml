@@ -8,7 +8,7 @@
     android:layout_height="match_parent"
     tools:context="com.kumar.user.androidmvpunittesting.Login.login_activity"
     android:background="#a65555"
-    android:padding="51dp">
+    android:padding="52dp">
 
 
     <Button
